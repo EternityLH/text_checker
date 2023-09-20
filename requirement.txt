@@ -1,0 +1,8 @@
+You should first install all pack with the instruction below:
+pip install sys
+pip install jieba
+pip install nltk
+
+nltk.download('punkt')
+nltk.download('stopwords')
+
